@@ -1,6 +1,6 @@
 
 
-# 🌟 BMI Calculator (Tkinter GUI)
+# 🌟 BMI Calculator 
 
 A modern and user-friendly **BMI (Body Mass Index)** calculator built with Python and Tkinter.  
 This app helps users easily calculate their BMI based on their height and weight, and visually indicates the health category.
@@ -43,7 +43,7 @@ It is used to determine whether you are underweight, normal, overweight, or obes
 ## 📦 How to Run
 
 1. Make sure you have Python 3 installed.
-2. Clone the repository or download the `.py` file.
+2. Clone the repository or download the `bmi_calculator.py` file.
 3. Run the app:
 
 ```bash

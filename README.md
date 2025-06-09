@@ -44,7 +44,7 @@ It is used to determine whether you are underweight, normal, overweight, or obes
 
 1. Make sure you have Python 3 installed.
 2. Clone the repository or download the `bmi_calculator.py` file.
-3. Run the app:
+3. Run the app
 
 ```bash
 python bmi_calculator.py

@@ -13,7 +13,7 @@ This app helps users easily calculate their BMI based on their height and weight
 
 ---
 
-## 🚀 Features
+## 🚀 Features:
 
 - 🖥️ Beautiful, modern graphical user interface
 - 🧮 Accurate BMI calculation

@@ -15,7 +15,7 @@ This app helps users easily calculate their BMI based on their height and weight
 
 ## 🚀 Features
 
-- 🖥️ Beautiful, modern graphical user interface
+- 🖥️ Beautiful graphical user interface
 - 🧮 Accurate BMI calculation
 - 🌈 Color-coded result based on health category:
   - Green → Normal

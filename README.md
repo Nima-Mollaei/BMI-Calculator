@@ -3,7 +3,7 @@
 # 🌟 BMI Calculator 
 
 A user-friendly **BMI (Body Mass Index)** calculator built with Python and Tkinter.
-This app helps users easily calculate their BMI based on their height and weight, and visually indicates the health Category.
+This app helps users easily calculate their BMI based on their height and weight, and visually indicates the health category.
 
 ---
 

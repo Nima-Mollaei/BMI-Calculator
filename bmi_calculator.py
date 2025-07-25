@@ -31,6 +31,7 @@ def calculate_bmi():
         messagebox.showerror("Invalid Input", "Please enter valid numbers.")
 
 # --------- Modern Themed UI ---------
+
 window = tk.Tk()
 window.title("🌟 BMI Calculator")
 window.geometry("400x350")
